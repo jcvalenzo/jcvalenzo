@@ -9,7 +9,7 @@ Desarrollo cosas en Java.
 
 ### 🎮 Mira mi perfil completo
 
-**[➜ https://TU_USUARIO.github.io](https://TU_USUARIO.github.io)**
+**[➜ https://jcvalenzo.github.io](https://TU_USUARIO.github.io)**
 
 [![Abrir perfil](https://img.shields.io/badge/ABRIR_PERFIL-f7d51d?style=for-the-badge&logoColor=black)](https://TU_USUARIO.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-claudio-valenzuela-ortega-543275166/)
