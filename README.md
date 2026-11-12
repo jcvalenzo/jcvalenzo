@@ -12,9 +12,7 @@
 
 ### 🕹️ About Me
 
-* 🚀 Systems Engineer with **8 years of experience** designing and improving backend solutions for banking, telecommunications, and e-commerce[cite: 2].
-* 🏦 Currently working as a **Backend Developer at Muruna**, actively collaborating on the modernization of Scotiabank's core banking system[cite: 2].
-* 🎯 Passionate about backend robustness, microservices, and cloud architecture.
+Backend Developer with **8 years of experience** building scalable microservices and cloud-native solutions for banking and telecom. Currently modernizing core banking systems at **Muruna** for **Scotiabank**.
 
 ---
 
